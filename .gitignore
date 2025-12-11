@@ -1,0 +1,17 @@
+# ----------------------------------------------------
+# 2. IGNORE SSG-SPECIFIC FILES/FOLDERS (e.g., Hugo/Jekyll)
+# ----------------------------------------------------
+
+# If you use Hugo's cache
+.hugo_build.lock
+/resources
+.DS_Store
+
+# If you use Node/npm
+/node_modules
+npm-debug.log
+
+# If you use Jekyll (Ruby Gem dependencies)
+/_site    # <- If you use Jekyll, this is the output folder to IGNORE
+/.jekyll-cache
+/vendor

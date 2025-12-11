@@ -1,0 +1,4 @@
+baseURL = 'https://ki6kvz.radio/'
+languageCode = 'en-us'
+title = 'KI6KVZ'
+theme = "hugo-bearcub"
